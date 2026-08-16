@@ -1,4 +1,4 @@
-# Maverin: High-Precision 3GPP RAG Assistant
+# Maverin: A chatbot on Telecom 3GPP standards
 
 Maverin is a specialized Retrieval-Augmented Generation (RAG) system engineered specifically to navigate, search, and answer questions based on highly technical 3GPP telecom specifications. 
 
