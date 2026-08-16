@@ -12,12 +12,9 @@ By combining hierarchical document parsing, hybrid vector search, and a strict c
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="assets/ui_screenshot_1.png" alt="Maverin Chat Interface" width="800">
-</p>
-<p align="center">
-  <img src="assets/ui_screenshot_2.png" alt="Maverin Technical Explanation" width="800">
-</p>
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/47a69076-67fa-45ce-b330-75418c7cf50f" />
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/0007ed56-4ccf-4662-a1be-ab74390f0090" />
+
 
 ## 🌟 Key Features
 
