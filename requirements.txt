@@ -1,0 +1,8 @@
+docling
+qdrant-client
+FlagEmbedding
+google-generativeai
+sentence-transformers
+python-dotenv
+fastapi
+uvicorn
